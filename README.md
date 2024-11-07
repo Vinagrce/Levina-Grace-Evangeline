@@ -51,15 +51,15 @@ I have been involved in various activities and events, including:
 
 ### 1. **GardeniApp**  
 Application That Sells Flowers or Bouquets.
-- [https://www.figma.com/proto/GF1MxHBSYu4eHQWbi7Lkql/GardeniApp?node-id=129-71&t=RRMPgyFYeqAT7c9M-1](#) 
+- [https://www.figma.com/proto/GF1MxHBSYu4eHQWbi7Lkql/GardeniApp?node-id=129-71&t=RRMPgyFYeqAT7c9M-1]
 
 ### 2. SkinDiary**  
 Application That Sells Beauty Product  
-- [https://www.figma.com/proto/tjSDHhFlYCgrgs5cm4Mc3d/SkinDiary?node-id=0-1&t=M6laBVrxuxFBfTjp-1](#)  
+- [https://www.figma.com/proto/tjSDHhFlYCgrgs5cm4Mc3d/SkinDiary?node-id=0-1&t=M6laBVrxuxFBfTjp-1]
 
 ### 3. **BlueBird**  
 Online Bluebird Taxi Booking Application. 
-- [View Design Prototype](#)  
+- [https://github.com/Vinagrce/BlueBird.git] 
 
 ---
 
